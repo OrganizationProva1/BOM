@@ -11,6 +11,7 @@ jetty-6.1.26.jar,Apache-2.0; EPL-1.0,mortbay.org,-,-,Java,-,-,org.mortbay.jetty
 jetty-util-6.1.26.jar,Apache-2.0; EPL-1.0,mortbay.org,-,-,Java,-,-,org.mortbay.jetty
 jfreechart-1.0.12.jar,LGPL-3.0,JFree.org,-,-,Java,-,-,http://www.jfree.org/jcommon/
 log4j-1.2.16.jar,Apache-2.0,-,-,-,Java,-,-,-
+prototype-1.6.0.2.js,MIT,Sam Stephenson,-,-,Javascript,https://github.com/prototypejs/prototype,-,http://prototypejs.org/download
 servlet-api-2.5.jar,CDDL-1.0; GPL-2.0,-,-,-,Java,-,-,-
 slf4j-api-1.5.11.jar,MIT,slf4j.org,-,-,Java,-,-,http://www.slf4j.org
 slf4j-log4j12-1.5.11.jar,MIT,slf4j.org,-,-,Java,-,-,http://www.slf4j.org
