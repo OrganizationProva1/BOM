@@ -1,0 +1,2 @@
+name+version*,license*,Copyrights*,end-of-support,dependencies,language,repository,email,url
+comedi 0.11.0,LGPL-2.1,David Schleef,,,C,https://github.com/Linux-Comedi/comedilib/releases/tag/r0_11_0,ds@schleef.org,
