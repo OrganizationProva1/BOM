@@ -1,0 +1,7 @@
+name*,version*,license*,Copyrights*,end-of-support,dependencies,language,repository,email,url
+bootstrap,,MIT,2011-2021 Twitter, Inc.,,,Javascript,,,https://github.com/twbs/bootstrap
+bootstrap-datepicker,,Apache-2.0,Stefan Petre, Andrew Rowls,,,Javascript,,,https://github.com/eternicode/bootstrap-datepicker
+jquery,,MIT,2005, 2021 jQuery Foundation,,,Javascript,,,http://jquery.com/
+jquery-ui,,MIT,2021 jQuery Foundation,,,Javascript,,,https://jqueryui.com
+datatables,,MIT,2007-2021 SpryMedia Ltd,,,Javascript,,,https://datatables.net
+popper,,MIT,2021 Federico Zivolo,,,Javascript,,,https://popper.js.org/
