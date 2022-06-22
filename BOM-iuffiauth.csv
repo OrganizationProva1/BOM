@@ -1,4 +1,4 @@
-name@version *;license *;copyrights *;end-of-support;dependencies;language;repository;email;URL
+name@version*;license*;copyrights*;end-of-support;dependencies;language;repository;email;URL
 csi-stadapter-1.4.6.jar;"Apache-2.0; MIT (Rilasciata da CSI Piemonte su richiesta)";CSI-Piemonte;-;-;Java;-;-;-
 gson-2.2.4.jar;"Apache-2.0";Google;-;-;Java;-;-;-
 iridev2-pep-intf-2.0.0.jar;"Apache-2.0; MIT (Rilasciata da CSI Piemonte su richiesta)";CSI-Piemonte;-;-;Java;-;-;-
